@@ -14,6 +14,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/mariam-rizwan-a6272727b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariam-rizwan-a6272727b" height="30" width="40" /></a>
 <a href="https://instagram.com/_mariam_rizwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mariam_rizwan" height="30" width="40" /></a>
+<a href="https://gemail.com/mariam.rizwan06@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mariam.rizwan06@gmail.com" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

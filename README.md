@@ -7,9 +7,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariamrizwan01&label=Profile%20views&color=0e75b6&style=flat" alt="mariamrizwan01" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/mariamrizwan01](https://github.com/mariamrizwan01)
-
 - 📫 How to reach me **mariam.rizwan06@gmail.com**
-- <p align="left">- 🔭 I’m working as Mobile App Developer, focusing on Flutter.<br>- 📚 I'm currently learning SpringBoot to broaden my backend development skills and to build robust and scalable web applications.<br>- ⚡ In my free time,I enjoy contributing to open-source projects, exploring new technologies, and refining my problem-solving skills through coding challenges.</p>
+- 🔭 I’m working as Mobile App Developer, focusing on Flutter.<br>
+- 📚 I'm currently learning SpringBoot to broaden my backend development skills and to build robust and scalable web applications.<br>
+- ⚡ In my free time,I enjoy contributing to open-source projects, exploring new technologies, and refining my problem-solving skills through coding challenges.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mariam Rizwan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
+
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariamrizwan01&label=Profile%20views&color=0e75b6&style=flat" alt="mariamrizwan01" /> </p>
@@ -8,7 +9,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/mariamrizwan01](https://github.com/mariamrizwan01)
 
 - 📫 How to reach me **mariam.rizwan06@gmail.com**
-
+- <p align="left">- 🔭 I’m working as Mobile App Developer, focusing on Flutter.<br>- 📚 I'm currently learning SpringBoot to broaden my backend development skills and to build robust and scalable web applications.<br>- ⚡ In my free time,I enjoy contributing to open-source projects, exploring new technologies, and refining my problem-solving skills through coding challenges.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
